@@ -1,0 +1,16 @@
+navbar:
+  blog_title: "zong1024's Blog"
+
+index:
+  banner_img: /img/default.png
+  slogan:
+    enable: true
+    text: "Hexo deployed on 202.60.232.93"
+
+about:
+  banner_img: /img/default.png
+  avatar: /img/avatar.png
+  name: "zong1024"
+  intro: "A self-hosted Hexo blog."
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com/zong1024", tip: "GitHub" }
